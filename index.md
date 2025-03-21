@@ -12,7 +12,7 @@ Bettendorf, IA | Rashmi.Achha@gmail.com | [LinkedIn](https://linkedin.com/in/ras
 ## About Me
 I simplify complexity. Whether I’m creating technical documentation, UX-focused web content, or enterprise content strategies, I deliver information that connects, clarifies, and empowers.
 
-With experience across industries—pharma, AI, software, heavy engineering—I build content that’s accurate, accessible, and impactful. I also lead cross-functional collaboration, represent teams globally, and bring content to life through innovation.
+With experience across industries—pharma, AI, software, aerospace, heavy engineering—I build content that’s accurate, accessible, and impactful. I also lead cross-functional collaboration, represent teams globally, and bring content to life through innovation.
 
 ---
 
@@ -26,14 +26,20 @@ With experience across industries—pharma, AI, software, heavy engineering—I 
 
 ## Portfolio Samples
 
-### [Pfizer: Internal Knowledge Base Redesign](/samples/confluence-redesign.pdf)
-- Redesigned Confluence pages for global teams, improving UX and engagement by 30%.
+### [Veritas: Structured documentation ](/NetBackup™ Web UI Apache Cassandra Administrator's Guide
+•	| NetBackup™ Web UI Nutanix AHV Administrator's Guide | Veritas™
+•	Workflow of malware detection and notification | Malware detection | NetBackup™ Security and Encryption Guide | Veritas™
+)
+- Created these user guides from scratch,improving UX and engagement by 30%.
 
-### [Veritas: AI API Documentation](/samples/api-doc-sample.pdf)
+### [Avaya:API Documentation](/docs.avayacloud.com/aspx/rest#make-call)
+- Authored SKD, Cloud based, SaaS, user guides and API documentation.
+
+### [Schlumberger: AR/VR article for global platform](/samples/visual-doc-sample.pdf)
+- Developed manuals, videos, and interactive presentations. Led global AR/VR session..
+
+### [Pfizer: API documentation Manual](/SDK_doc-sampl.pdf)
 - Authored API guides for AI/ML solutions; streamlined developer onboarding.
-
-### [Schlumberger: Technical Manual + AR/VR Presentation](/samples/technical-manual.pdf)
-- Developed manuals, videos, and interactive presentations. Led global AR/VR session.
 
 > *Note: Some samples redacted for confidentiality. Full portfolio available on request.*
 
@@ -42,6 +48,7 @@ With experience across industries—pharma, AI, software, heavy engineering—I 
 ## Achievements
 - **Innovation Award**, Schlumberger – Techcom event host with 100+ attendees
 - Represented companies at **global forums** for AR/VR and content strategy
+- Written articles in well known CIDM newsletter and others
 - Scaled teams and improved workflows, increasing efficiency and impact
 
 ---
